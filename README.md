@@ -1,6 +1,6 @@
 # ManimQ
 
-ManimQ is a project idea that uses Manim to illustrate quantum computing concepts.
+ManimQ is a project that uses Manim to illustrate quantum computing concepts.
 
 Manim:
 https://github.com/3b1b/manim
